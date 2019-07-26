@@ -3,9 +3,9 @@
 Plugin Name: Easy Shortcode for Font Awesome
 Plugin URI: http://wordpress.org/plugins/fa-shortcode/
 Description: Adds a font awesome shortcode to your WordPress
-Author: Marcos Gugeler
+Author: Marcos Rezende
 Version: 1.0.0
-Author URI: https://www.linkedin.com/in/marcosgugeler/
+Author URI: https://www.linkedin.com/in/rezendemarcos/
 */
 
 function fa_shortcode_scripts() {

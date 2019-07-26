@@ -1,5 +1,5 @@
 === Easy Shortcode for Font Awesome ===
-Contributors: marcosgugeler
+Contributors: rezendemarcos
 Stable tag: 1.0.0
 Tested up to: 5.2
 Requires at least: 4.6
