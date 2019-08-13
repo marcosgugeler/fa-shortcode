@@ -5,7 +5,7 @@ Plugin URI: http://wordpress.org/plugins/fa-shortcode/
 Description: Adds a font awesome shortcode to your WordPress
 Author: Marcos Rezende
 Version: 1.0.0
-Author URI: https://www.linkedin.com/in/rezendemarcos/
+Author URI: https://www.linkedin.com/in/rezehnde/
 */
 
 function fa_shortcode_scripts() {
